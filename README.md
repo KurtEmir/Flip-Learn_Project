@@ -10,7 +10,7 @@ You can review the project with cloning the repo into your local.
   
 ## Features
 
-- API Integration
+- DeepL Translate API Integration
 - Vocabulary card sets
 - Responsive design
 
